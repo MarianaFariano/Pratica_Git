@@ -1,4 +1,6 @@
- Praticando comandos do git para o github
+# Praticando comandos do git para o github #
+ 
+ ## passo a passo que foi usado pra o versionamento ##
  
 
 user ~/OneDrive/Área de Trabalho/Nova pasta (master)
