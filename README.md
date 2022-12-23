@@ -5,7 +5,7 @@
 
 user ~/OneDrive/Área de Trabalho/Nova pasta (master)
 $ git init
-Initialized empty Git repository in C:/Users/maria/OneDrive/Área de Trabalho/Nova pasta/.git/
+Initialized empty Git repository in C:/Users/mariana/OneDrive/Área de Trabalho/Nova pasta/.git/
 
 user ~/OneDrive/Área de Trabalho/Nova pasta (master)
 $ code .
